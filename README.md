@@ -1,9 +1,14 @@
 # Fullstack App 
 
-> A curated list of free fullstack app generators and frameworks
+A curated list of free fullstack app generators and frameworks.
+Or to quote the anonymous philosopher: 
+> "How can I generate a project basis fast and accelerate my project"
 
-The goals was to add new trending frameworks with node 
-and python backends.
+
+<p align="center">
+<img width="1000" height="400" src="http://wondrlust.com/wp-content/uploads/2017/05/12-of-historys-greatest-philosophers-reveal-the-secret-to-happiness-960x540.png">
+</p>
+
 
 ## Frontend Frameworks
  - [React](#react)
@@ -59,6 +64,13 @@ Hapi is one of the most complete rest api frameworks in Node js world.
 - [hapi app generator](https://github.com/giovanebribeiro/hapi-app-generator)
 - [hapi wurst generator](https://www.npmjs.com/package/generator-hapi-wurst)
 
+### Node tutorials
+- [learn hapi](https://github.com/dwyl/learn-hapi) Happiness is learning how to use the Hapi.js (Node.js) web framework to build reliable/scalable apps faster.
+- [node.js tutorial](https://github.com/MartinChavez/Node.js-Tutorial) Use this tutorial as a guide to learn Node.js. Each unit contains an annotated lesson with working examples.
+- [node.js real app example](https://github.com/gothinkster/node-express-realworld-example-app) Example Node (Express + Mongoose) codebase containing real world examples 
+- [node.js and mongo app](https://blog.ijasoneverett.com/2013/04/a-sample-app-with-node-js-express-and-mongodb-part-2/)
+- [node.js app boilerplate](https://github.com/cosmicjs/nodejs-website-boilerplate) 
+A website template that satisfies some common website requirements including dynamic pages, blog articles, author management, SEO ability, contact form and website search.
 
 ### Node.JS Fastify generator
 - [fastify generator](https://github.com/arniu/fastify-generate) Young and has a lot to prove. Just like the fastest node js REST framework.
@@ -74,8 +86,12 @@ Hapi is one of the most complete rest api frameworks in Node js world.
 
 
 TODO:
-- Add covered features by each generator
 - Books, courses, tutorials and slides (only free but can create categorized by paid/free)
 - Used apps by framework
 - Boilerplates
 - Development (Debugging/Testing/Documentation)
+- Add covered features by each generator
+- Add new features and how to integrate them
+- Payment processing and billing modules
+- Oauth/passport authentification type
+- 
