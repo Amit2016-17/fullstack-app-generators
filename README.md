@@ -5,14 +5,15 @@
 The goals was to add new trending frameworks with node 
 and python backends.
 
-- Frontend Frameworks
- - React (#react)
- - Vue (#vue)
- - Angular (#angular)
+## Frontend Frameworks
+ - [React](#react)
+ - [Vue](#vue)
+ - [Angular](#angular)
 
-- Backend Frameworks
- - Node (#node)
- - Flask (#flask)
+
+## Backend Frameworks
+ - [Node](#node)
+ - [Flask](#flask)
 
 
 ## React
@@ -24,7 +25,7 @@ and python backends.
 - [express react generator](https://github.com/kevin-wynn/reactjs-express-generator) - This generator is a simple lightweight way to set up a skeleton for a React front end with an Express back end.
 
 ### React and Spring (Java backend)
-- [jhister for react](https://github.com/jhipster)
+- [jhister for react](https://github.com/jhipster) The well known jhipster app generator.
 
 ## Vue or Vue.js
 
@@ -33,10 +34,10 @@ and python backends.
 - [vue ecommerce generator](https://github.com/hoanguyen311/generator-vuecommerce) Yeoman generator that scaffolds out a Vue E-commerce website using Webpack for the build process
 
 ## Angular
-- [angular generator](https://github.com/yeoman/generator-angular)
+- [angular generator](https://github.com/yeoman/generator-angular) The well known yeoman angular app generator.
 
 ### Angular and Spring (Java backend)
-- [jhister for angular](https://github.com/jhipster)
+- [jhister for angular](https://github.com/jhipster) The well known jhipster app generator.
 
 ### Angular and Node.js
 - [angular hapi.js mongo](https://github.com/nodox/generator-wave) A fork from above angular generator. A generator for HapiJS + AngularJS + MongoDB application stacks. 
