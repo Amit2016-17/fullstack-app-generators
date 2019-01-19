@@ -5,11 +5,6 @@ Or to quote the anonymous philosopher:
 > "How can I generate a project basis fast and accelerate my project"
 
 
-<p align="center">
-<img src="http://wondrlust.com/wp-content/uploads/2017/05/12-of-historys-greatest-philosophers-reveal-the-secret-to-happiness-960x540.png">
-</p>
-
-
 ## Frontend Frameworks
  - [React](#react)
  - [Vue](#vue)
